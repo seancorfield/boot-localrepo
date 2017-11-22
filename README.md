@@ -2,6 +2,8 @@
 
 A Boot task that wraps lein-localrepo, so you can work with your local Maven repository.
 
+[![Clojars Project](https://img.shields.io/clojars/v/seancorfield/boot-localrepo.svg)](https://clojars.org/seancorfield/boot-localrepo)
+
 ## Usage
 
 To guess the Boot (Maven) coords of a filename:
