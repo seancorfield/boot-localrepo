@@ -1,6 +1,6 @@
 # boot-localrepo
 
-A Boot task that wraps lein-localrepo, so you can work with your local Maven repository.
+A Boot task that wraps [lein-localrepo](https://github.com/kumarshantanu/lein-localrepo/), so you can work with your local Maven repository.
 
 [![Clojars Project](https://img.shields.io/clojars/v/seancorfield/boot-localrepo.svg)](https://clojars.org/seancorfield/boot-localrepo)
 
